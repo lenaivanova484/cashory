@@ -9,7 +9,7 @@
 
 Cashory Demo is a full-stack personal finance and lightweight invoicing application built as a Bun monorepo. It combines an Expo-powered React Native client, a Hono API, Better Auth authentication, Drizzle ORM, and PostgreSQL to deliver a mobile-first experience for onboarding users, managing wallets, recording transactions, reviewing reports, generating invoices, and exporting invoice PDFs.
 
-> Repository audit note  
+> Repository audit note   
 > This codebase currently implements a finance management product, not a YouTube long-form video creation and publishing workflow. There is no YouTube API, Google OAuth for YouTube upload, video rendering pipeline, or publishing automation in the repository at this time. This README documents the current implementation on disk so other developers can set it up and contribute accurately.
 
 ## Table of Contents
